@@ -1,7 +1,3 @@
-# Mistral_and_gTTS_to_Create_Your_Personal_Storyteller
-Use Mistral and gTTS to Create Your Personal Storyteller
-
-
 # Speech-to-Text, Speech Processing & Text-to-Speech
 
 Study notes **Build Multimodal Generative AI Applications**, covering:
@@ -10,6 +6,7 @@ Study notes **Build Multimodal Generative AI Applications**, covering:
 - Reading: [Text Processing, Speech Processing, and Text-to-Speech](https://www.coursera.org/learn/build-multimodal-generative-ai-applications/supplement/2a92T/text-processing-speech-processing-and-text-to-speech)
 
 ---
+Use Mistral and gTTS to Create Your Personal Storyteller
 
 ## Table of contents
 
