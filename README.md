@@ -299,5 +299,3 @@ TTS converts written text into natural-sounding speech.
 | **Edge computing** | Running models on the device instead of in the cloud |
 
 ---
-
-*Source: Coursera, Build Multimodal Generative AI Applications. Notes summarised for personal study.*
